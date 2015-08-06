@@ -1,9 +1,9 @@
-Social Buginess App
+Car Trading Social Buginess App, for www.autodiler.me
 ==============================
 Features include:
+* iOS 7
 * REST API
 * SQLite
-* iOS 7
 
 #### Description
 
